@@ -2,16 +2,16 @@
 
 ## This Project is made with: 
 
-### Front-End
+## Front-End
 <ul>
-  <li><h2>React/React Router (v5)</h2></li>
-  <li><h2>Bootstrap</h2></li>
-  <li><h2>Firebase</h2></li>
+  <li><h3>React/React Router (v5)</h3></li>
+  <li><h3>Bootstrap</h3></li>
+  <li><h3>Firebase</h3></li>
 </ul>
 
-### Back-End
+## Back-End
 <ul>
-  <li><h2>Node JS</h2></li>
-  <li><h2>Express JS</h2></li>
-  <li><h2>Mongo DB (Database) - Interacted with Mongoose</h2></li>
+  <li><h3>Node JS</h3></li>
+  <li><h3>Express JS</h3></li>
+  <li><h3>Mongo DB (Database) - Interacted with Mongoose</h3></li>
 </ul>
